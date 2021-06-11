@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/projectdiscovery/stringsutil"
+	"github.com/samy1937/stringsutil"
 )
 
 const (
